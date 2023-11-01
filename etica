@@ -6,26 +6,10 @@
 <body>
     <h1>Ética</h1>
 <img id="etica" src="pag5/etica.jpg" alt=168"etica">
-    <p>Origem da Ética; Considerações de ética; A ética na pesquisa científica
-e nas aplicações do conhecimento científico; Ética aplicada ao contexto
-empresarial; Influência da Ética na tomada de decisões;
-Responsabilidade social empresarial;Inclusão social e digital, Direito
-ambiental; Direito eletrônico ou Direito da informática; Divergência
-doutrinária; Crimes da Informática; Leis específicas; Projeto de lei 84/99;
-Lei 9.609/98 Lei sobre Propriedade Intelectual de Programa de
-Computador; Lei 9.610/98 Lei dos Direitos Autorais; Lei 9.800/99
-Sistema de Transmissão de Dados e Imagens via fax ou similar; Código
-Penal; ECA; Propriedade Intelectual, aplicação do Direito da Informática;
-Competência para Processo; Competência para Julgamento;
-Responsabilidade Penal dos Provedores; Estudos das questões raciais
-e indígenas. </p>
+    <p>Origem da Ética; Considerações de ética</p>
  <h2>Programação</h2>
 <img id="prog" src="pag5/prog.png" alt=195"prog">
-<p> Histórico e Princípios da Web. Conceitos e ferramentas para Publicação
-e Hospedagem. O ambiente de Internet: como funcionam, protocolos,
-diversas aplicações. Diferenciação entre ambientes cliente e servidor.
-Introdução à criação de páginas WEB simples. Linguagem de marcação,
-script e estilos. </p>
+<p> Histórico e Princípios da Web. Conceitos e ferramentas </p>
     <a href="logica.html">Ir para a logica</a>
 </body>
 </html>
