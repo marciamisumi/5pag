@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Matérias da primeira fase</title>
+</head>
+<body>
+    <h1>Algoritmo</h1>
+    <p>Vamos aprender algoritmo.</p>
+    <h2>Etica</h2>
+    <p>Vamos aprender etica.</p>
+    <h3>Programação</h3>
+    <p>Vamos aprender programação.</p>
+    <h4>Lógica</h4>
+    <p>Vamos aprender Lógica.</p>
+    <h5>Arquitetura de computadores</h5>
+    <p>Vamos aprender Arquitetura de computadoreso.</p>
+    <a href="materias.html">Ir para a materias</a>
+</body>
+</html>
