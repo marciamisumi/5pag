@@ -15,6 +15,7 @@
     <h5>Arquitetura de computadores</h5>
     <p>Vamos aprender Arquitetura de computadores.</p>
     <a href="materias.html">Ir para a materias</a>
-   <a href="logica.html">Ir para a logica</a>
+    <a href="etica.html">Ir para a etica</a>
+    <a href="logica.html">Ir para a logica</a>
 </body>
 </html>
